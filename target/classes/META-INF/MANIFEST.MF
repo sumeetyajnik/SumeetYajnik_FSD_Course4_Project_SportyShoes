@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sumeety
+Build-Jdk: 17.0.1
+Implementation-Title: SumeetYajnik_FSD_Course4_Project_SportyShoes
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.onlyxcodes
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SumeetYajnik_FSD_Course4_Project_SportyShoes
+Created-By: Maven Integration for Eclipse
+
